@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100;500;600&display=swap');
+:root{
+	--color-negro:#282d33;
+	--menu-hover:#282d33;
+	--fondo-footer:#30363d;
+	--color-footer:#898989;
+}
+
+body{
+	font-family: 'Catamaran', sans-serif;
+}
+
+header{
+	background-color: #fff;
+}
+
+
+.hero{
+    background-image: url("../img/Services-Title-Image.jpg");
+    height: 50%;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: auto;
+     position: relative;
+    padding: 200px;
+}
+
+.hero-text{
+	color: #fff;
+	text-align: center;
+	font-size: 500;
+	font-weight: 300;
+}
+
+#icons{
+	padding: 60px;
+	text-align: center;
+}
+
+#icons i{
+	font-size: 100px;
+	color: #e0e0e0;
+	margin-bottom: 20px;
+}
+
+#icons h1{
+	color: #282d33;
+
+}
+
+#icons p{
+	color: #898989;
+}
+
+#icons .cheque i{
+	color:  #53c3c9;
+}
+
+#info{
+	background-color: #f7f7f7;
+	padding: 20px;
+	text-align: center;
+}
+
+.texto{
+	padding: 20px;
+}
+
+.titulo{
+	color: #282d33;
+}
+
+.subtitulo{
+	color: #898989;
+	font-size: 20px;
+}
+
+.informacion h2{
+	color: #282d33;
+	font-size: 30 px;
+}
+
+.informacion h3{
+	color: #898989;
+	font-size: 20px;
+}
+
+.informacion{
+	padding: 30px;
+}
+
+
+.a{
+    background-color: #3d4248;
+	color: #fff;
+	text-align: center;
+	padding: 80px;
+}
+
+.b{
+	background-color: #d8d8d8;
+	color: #fff;
+	text-align: center;
+	padding: 80px;
+}
+
+
+.c{
+	background-color: #f0f0f0;
+	color: #fff;
+	text-align: center;
+	padding: 80px;
+}
+
+.c h2{
+	color: #282d33;
+}
+
+.c p{
+	color:  #898989;
+}
+
+.button {
+  background-color: #161616; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+
+footer{
+    background-color: var(--fondo-footer);
+    color: var(--color-footer);
+    padding: 20px 0;
+    text-align: center;
+    font-size: 13px;
+	color: #fff;
+}
+
+.copy{
+	text-align: center;
+	 background-color: #0B0B0B;
+	padding: 30px;
+}
+
+
+
+footer{
+	background-color: var(--fondo-footer);
+	color: var(--color-footer);
+	padding: 20px 0;
+	text-align: center;
+	font-size: 13px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
